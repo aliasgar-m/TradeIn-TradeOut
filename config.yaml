@@ -1,0 +1,4 @@
+inputDirectory: "./input/"
+inputFile: "train.csv"
+outputDirectory: "./output/"
+outputFile: "engineered.csv"
